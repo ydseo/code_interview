@@ -1,3 +1,6 @@
+/* 1부터 100 까지 3의 배수는 fizz 5의 배수는 buzz 둘 다 해당하는 경우 fizz buzz를 출력하는 프로그램을 작성 */
+
+
 #include <stdio.h>
 
 int main() {
